@@ -1,0 +1,2 @@
+# generate_prophecies
+prophecies_generator
